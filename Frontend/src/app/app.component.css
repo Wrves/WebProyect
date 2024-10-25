@@ -1,0 +1,12 @@
+.app-header {
+    background-color: #007b5e;  /* Color de fondo del header */
+    color: white;               /* Color del texto */
+    padding: 10px 20px;         /* Espaciado interno */
+    display: flex;              /* Usar flexbox para la alineación */
+    align-items: center;        /* Centrar el contenido verticalmente */
+  }
+  
+  .company-name {
+    font-size: 20px;            /* Tamaño del texto */
+    font-weight: bold;          /* Texto en negrita */
+  }
